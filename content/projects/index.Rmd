@@ -1,0 +1,235 @@
+---
+output: hugodown::md_document
+title: "Projects by Danielle Navarro"
+type: "page"
+summary: "Academic work, software projects, community activities and more"
+author: ""
+tags: []
+date: 2020-09-02
+---
+
+# Projects
+
+Hi! Welcome to my projects page. It's a little eclectic. 
+
+For most of my career I worked as a computational cognitive scientist, so there's quite a lot of [academic](#academic) research projects listed on this page. These days I work as a data scientist and unsurprisingly I have [data science](#data-science) projects and [software](#software) projects. Just to make life complicated, I've also listed some [art](#art) and [community](#community) projects that I've been involved in over the years. They make me happy. 
+
+
+
+
+<a name="data-science"></a>
+
+## Data Science
+
+I write a data science blog, [*Notes from a data witch*](https://blog.djnavarro.net): posts cover a variety of topics including R, generative art, and Apache Arrow. I've also put together a collection of [slide decks](https://slides.djnavarro.net) that I've used when teaching data science concepts, as well as a series of [videos](https://youtube.djnavarro.net) on YouTube where I talk about these topics.
+
+```{r, echo=FALSE}
+datasci <- data.frame(
+  title = c(
+    "blog.djnavarro.net",
+    "slides.djnavarro.net",
+    "youtube.djnavarro.net"
+  ),
+  text = c(
+    "",
+    "",
+    ""
+  ),
+  link = c(
+    "https://blog.djnavarro.net",
+    "https://slides.djnavarro.net",
+    "https://youtube.djnavarro.net"
+  ),
+  image = c(
+    "blog.jpg",
+    "jo-gala-gLw-ExxY2GI-unsplash.jpg",
+    "sara-kurfess-O1mej4P-Rws-unsplash.jpg"
+  )
+)
+
+bs4cards::cards(
+  data = datasci, 
+  title = title, 
+  text = text, 
+  link = link, 
+  image = image,
+  label_colour = "#333333", 
+  border_radius = 0, 
+  spacing = 4,
+  width = 3
+)
+```
+
+
+
+<a name="academic"></a>
+
+## Academic
+
+My academic research investigated how people learn, reason, and make choices in an uncertain world. It touched on topics in cognition, machine learning, statistics, visual perception, data visualisation, language, cultural evolution, cognitive development, and forensic psychology. I've featured a few favourite projects below, but you're welcome to browse through the longer list of my [research papers](/papers) and [teaching material](/teaching) if you like!
+
+
+```{r, echo=FALSE}
+papers <- data.frame(
+  text = c(
+    "If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology",
+    "Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection",
+    "None of the above: A Bayesian account of the detection of novel categories",
+    "Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory"
+  ),
+  footer = c(
+    "Perspectives on Psychological Science",
+    "Computational Brain and Behavior",
+    "Psychological Review",
+    "Psychological Review"
+  ),
+  link = c(
+    "https://doi.org/10.31234/osf.io/ygbjp",
+    "https://doi.org/10.31234/osf.io/39q8y",
+    "https://doi.org/10.31234/osf.io/szr4u",
+    "https://doi.org/10.31234/osf.io/25gcm"
+  ),
+  title = c(
+    "psyarxiv.com/ygbjp",
+    "psyarxiv.com/39q8y",
+    "psyarxiv.com/szr4u",
+    "psyarxiv.com/25gcm"
+  ),
+  image = c(
+    "jeswin-thomas-hecib2an4T4-unsplash.jpg",
+    "thierry-meier-PKEPAeMBOIU-unsplash.jpg",
+    "ricardo-gomez-angel-KmKZV8pso-s-unsplash.jpg",
+    "david-matos-xtLIgpytpck-unsplash.jpg"
+  )
+)
+
+bs4cards::cards(
+  data = papers, 
+  title = title, 
+  text = text, 
+  link = link, 
+  image = image,
+  label_colour = "#333333", 
+  border_radius = 0, 
+  spacing = 4,
+  width = 4
+)
+```
+
+
+<a name="software"></a>
+
+## Software
+
+I have several R packages and other software at varying stages of development:
+
+  - Some tools aid behavioural scientists: the [jaysire](https://jaysire.djnavarro.net) package provides a method for writing behavioural experiments within R that can run through a web browser, and the [lsr](https://lsr.djnavarro.net) package accompanies my introductory statistics textbook
+  - Some packages are useful in literate programming. I use [bs4cards](https://bs4cards.djnavarro.net) to create the thumbnail images on this site. The site itself is built using the simple [calade](https://github.com/djnavarro/hugo-calade) hugo theme I wrote, and my [art website](https://art.djnavarro.net) is an example of a [diziet](https://github.com/djnavarro/hugo-diziet) themed site
+  - Some packages exist as a small source of joy: the [rainbowr](https://rainbowr.djnavarro.net) package provides a way to generate LGBTIQ themed R hex stickers
+  - Finally, there are the art packages: [asciify](https://asciify.djnavarro.net), [jasmines](https://jasmines.djnavarro.net), [scrawl](https://scrawl.djnavarro.net), [flametree](https://flametree.djnavarro.net), [turmite59](https://github.com/djnavarro/turmite59), and so on. These are mostly for my own joy, but I also use them in my R classes to help students to learn programming concepts
+
+
+```{r, echo=FALSE}
+software <- data.frame(
+  title = c(
+    "asciify",
+    "bs4cards",
+    "hugo-calade",
+    "jasmines",
+    "jaysire",
+    "rainbowr"
+  ),
+  text = c(
+    "ASCII art from images",
+    "Bootstrap 4 cards in R markdown",
+    "A simple hugo theme for R users",
+    "Generative art in R",
+    "Write jsPsych experiments in R",
+    "LGBTIQ flags and hex stickers"
+  ),
+  link = c(
+    "https://asciify.djnavarro.net",
+    "https://bs4cards.djnavarro.net",
+    "https://djnavarro.net/hugo-calade/",
+    "https://jasmines.djnavarro.net",
+    "https://jaysire.djnavarro.net",
+    "https://rainbowr.djnavarro.net"
+  ),
+  image = c(
+    "asciify.png",
+    "bs4cards.png",
+    "caladown.png",
+    "jasmines.png",
+    "jaysire.png",
+    "rainbowr.png"
+  )
+)
+
+bs4cards::cards(
+  data = software, 
+  title = title, 
+  text = text, 
+  link = link, 
+  image = image,
+  label_colour = "#333333", 
+  border_radius = 0, 
+  spacing = 4,
+  width = 3
+)
+```
+
+
+<a name="art"></a>
+
+## Art
+
+I make art. 
+
+```{r, echo=FALSE}
+art <- data.frame(
+  title = c(
+    "art.djnavarro.net",
+    "objkt.djnavarro.net",
+    "society6.com/djnavarro"
+  ),
+  text = c(
+    "",
+    "",
+    ""
+  ),
+  link = c(
+    "https://art.djnavarro.net",
+    "https://objkt.djnavarro.net",
+    "https://society6.com/djnavarro"
+  ),
+  image = c(
+    "art.jpg",
+    "objkt.jpg",
+    "society6.jpg"
+  )
+)
+
+bs4cards::cards(
+  data = art, 
+  title = title, 
+  text = text, 
+  link = link, 
+  image = image,
+  label_colour = "#333333", 
+  border_radius = 0, 
+  spacing = 4,
+  width = 3
+)
+```
+
+
+
+
+<a name="community"></a>
+
+## Community
+
+- In 2018 I co-founded [R-Ladies Sydney](https://rladiessydney.org/) with Jen Richmond, Lisa Williams, and Steph Stammel. [R-Ladies](https://rladies.org/) is a worldwide organisation that promotes gender diversity within the R community and provides support across the entire spectrum of roles whether as leaders, package developers, conference speakers, conference participants, educators, or users. 
+
+- During my academic career I held editorial positions at one of the top scientific journals ([*Science*](https://www.sciencemag.org/)) and one of the top journals in psychology ([*Psychological Review*](https://www.apa.org/pubs/journals/rev/)). I also served as an associate editor at three top journals in cognitive science and cognitive psychology: [*Cognitive Science*](https://onlinelibrary.wiley.com/journal/15516709), [*Behavior Research Methods*](https://www.springer.com/journal/13428), and [*Open Mind*](https://www.mitpressjournals.org/loi/opmi). 
+

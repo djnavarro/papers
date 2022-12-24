@@ -1,0 +1,13 @@
+.menu {
+  padding-top: 20px;
+}
+
+.card-title {
+  font-size: 120%;
+}
+
+.article-banner {
+  height: 40vh;
+  width: 100%;
+  object-fit: cover;
+}

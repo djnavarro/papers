@@ -1,0 +1,42 @@
+---
+output: hugodown::md_document
+title: "About Danielle Navarro"
+type: "page"
+summary: "Miscellaneous"
+author: ""
+tags: []
+date: 2021-12-16
+---
+
+
+# About
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+set.seed(2)
+about <- data.frame(
+    image = here::here("static", "about") |> 
+      list.files() |>
+      sample()
+  ) |>
+  dplyr::mutate(link = dplyr::case_when(
+    image == "burnt.jpg" ~ "https://essays.djnavarro.net",
+    image == "jasmine.jpg" ~ "https://learningstatisticswithr.com",
+    image == "rainbow.png" ~ "https://art.djnavarro.net",
+    TRUE ~ NA_character_
+  ))
+  
+
+bs4cards::cards(
+  data = about, 
+  image = image,
+  layout = "image-only",
+  link = link,
+  label_colour = "#333333", 
+  border_radius = 0, 
+  spacing = 4,
+  width = 2
+)
+```
+
+

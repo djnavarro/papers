@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Publications by Danielle Navarro on Danielle Navarro</title>
+    <link>/</link>
+    <description>Recent content in Academic Publications by Danielle Navarro on Danielle Navarro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic Publications by Danielle Navarro</title>
+      <link>/papers/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>List of journal papers and other academic outputs</description>
+    </item>
+    
+    <item>
+      <title>Books by Danielle Navarro</title>
+      <link>/books/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/books/</guid>
+      <description>Learning statistics with R and other books I&amp;rsquo;ve written</description>
+    </item>
+    
+    <item>
+      <title>Projects by Danielle Navarro</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Academic work, software projects, community activities and more</description>
+    </item>
+    
+  </channel>
+</rss>
