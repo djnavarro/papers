@@ -2,13 +2,13 @@
 output: hugodown::md_document
 title: "Academic Publications by Danielle Navarro"
 summary: "List of journal papers and other academic outputs"
-rmd_hash: f0a800209ead0890
+rmd_hash: 68dde5fb03036708
 
 ---
 
-# Academic Publications by Danielle Navarro
+# Publications by Danielle Navarro
 
-One of the most venerable traditions of academia is to include a page drily listing the scholarly books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one's credentials to one's peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. Though I no longer darken the doorsteps of my betters in the academic world, I have not quite abandoned the practice of self-archiving my work.
+One of the most venerable traditions of academia is to include a page drily listing the [scholarly](https://scholar.djnavarro.net) books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one's credentials to one's peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. Though I no longer darken the doorsteps of my betters in the academic world, I have not quite abandoned the practice of self-archiving my work.
 
 Back when I was a part of that world, my academic research investigated how people learn, reason, and make choices in an uncertain world. It touched on topics in cognition, machine learning, statistics, visual perception, data visualisation, language, cultural evolution, cognitive development, and forensic psychology (I know, it's a weird mix...). To spare the casual reader the dull exercise of reading the long list below I've featured few favourite projects below, but you're welcome to browse through the more-complete list if you feel sufficiently masochistic about the whole thing.
 
