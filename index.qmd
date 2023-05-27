@@ -1,5 +1,5 @@
 ---
-title: "Publications by Danielle Navarro"
+title: "Academic Publications"
 ---
 
 One of the most venerable traditions of academia is to include a page drily listing the [scholarly](https://scholar.google.com/citations?user=QPH_lRIAAAAJ) books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes one's credentials to one's peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. Though I no longer darken the doorsteps of the academic world, I have not quite abandoned the practice of self-archiving my work.
@@ -14,14 +14,6 @@ Back when I was a part of that world, my academic research investigated how peop
 - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms, G. (2019). The Small World of Words: English word association norms for over 12,000 cue words. *Behavior Research Methods, 51*, 987-1006 [[pdf](./2019_swow.pdf), [doi](https://doi.org/10.3758/s13428-018-1115-7), [psyarxiv](https://doi.org/10.31234/osf.io/mb93p)]
 - Tauber, S., Navarro, D. J., Perfors A. and Steyvers, M. (2017). Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory. *Psychological Review, 124*, 410-441. [[pdf](./2017_descriptivebayes.pdf), [doi](https://doi.org/10.1037/rev0000052), [psyarxiv](https://doi.org/10.31234/osf.io/25gcm)]
 
-## Listing details
-
-On the list below you can find links to selected books and papers, most of which are freely available on PsyArXiv. From 2016 onwards the listing is relatively complete (for journal articles at least, not so much for refereed conference papers), but for anything further back only selected papers are listed. If you know anything about my personal history you can probably guess the reason why. Academia isn't very good at accommodating a certain kind of life change, I'm afraid.
-
-Anyway. 
-
-As much as possible each citation links to the author-accepted pdf file and the preprint on PsyArXiv. It includes links to the journal DOI for the version of record as well as the open access versions, as well as links to any supplementary materials, data sets, analyses etc, hosted on OSF or GitHub.
-
 ## Books
 
   - Wickham, H., Navarro, D. J., & Pedersen, T. L. (in preparation). *ggplot2: Elegant Graphics for Data Analysis* (3rd edition). To be published by Springer. [[site](https://ggplot2-book.org/)]
@@ -31,29 +23,27 @@ As much as possible each citation links to the author-accepted pdf file and the 
   - Crump, M. J., Navarro, D. J. and Suzuki, J. (2019). *Answering questions with data: Introductory statistics for psychology students* [[site](https://crumplab.github.io/statistics/), [doi](https://doi.org/10.17605/OSF.IO/JZE52)]
   - Navarro, D. J. (2015). *Learning statistics with R: A tutorial for psychology students and other beginners*. [[site](https://learningstatisticswithr.com)]
 
+## Papers
 
-## Accepted manuscripts
+### Manuscripts in press
 
-  - Ledgerwood, A., Pickett, C., Navarro, D. J., Remedios, J. D. & Lewis, N. A. Jr (in press) The unbearable limitations of solo science: Team science as a path for more rigorous and relevant research. *Brain and Behavioral Science*. Accepted May 1, 2021 [[psyarxiv](https://psyarxiv.com/5yfmq/)]
-  - Ledgerwood, A. et al. (in press). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Perspectives on Psychological Science.* Accepted July 8, 2021 [[psyarxiv](https://psyarxiv.com/gdzue)]
-  - Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in press). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Decision.* Accepted 9 Feb, 2022 [[psyarxiv](https://psyarxiv.com/nefpz/), [doi](https://doi.org/10.1037/dec0000179)]
-  - Singmann, H., et al. (in press). Statistics in the service of science: Don't let the tail wag the dog. *Manuscript under review* [[psyarxiv](https://doi.org/10.31234/osf.io/kxhfu)]. Accepted 20 Jan, 2022
-  - Riggs, D., W., Rosenberg, S. & Navarro, D. J. (in press). Attitudes towards parents of trans children and their rights: An Australian study. *Sexuality Research and Social Policy*. Accepted May 21, 2022
-  - Hayes, B. K., Desai, S. C., Navarro, D. J. & Wen, Y. P. (in press).  Who is sensitive to selection biases in inductive reasoning? *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Accepted June 9, 2022
+  - Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in press). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Decision.*  [[psyarxiv](https://psyarxiv.com/nefpz/), [doi](https://doi.org/10.1037/dec0000179)]
 
-<!-- ## Preprints, manuscripts, etc -->
+### 2023
 
-<!--
-  - Kemp, C., Navarro, D. J. & Hayes, B. (submitted, 2020). Adjustment for selection bias in intuitive reasoning. *Manuscript under revision*
-  - Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted, 2020). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
--->
+  - Singmann, H., Kellen, D., Cox, G. E., Chandramouli, S. H., Davis-Stober, C. P., Dunn, J. C., Gronau, Q. F., Kalish, M. L., McMullin, S. D., Navarro, D. J., & Shiffrin, R. M. (2023). Statistics in the service of science: Don't let the tail wag the dog. *Computational Brain and Behaviour, 6*, 64-83. [[psyarxiv](https://doi.org/10.31234/osf.io/kxhfu), [doi](https://doi.org/10.1007/s42113-022-00129-2)].
+  - Riggs, D. W., Rosenberg, S., & Navarro, D. J. (2023). Attitudes towards parents of trans children and their rights: An Australian study. *Sexuality Research and Social Policy, 20*, 198-207. [[doi](https://doi.org/10.1007/s13178-022-00737-4)]
+  - Hayes, B. K., Desai, S. C., Navarro, D. J. & Wen, Y. P. (2023).  Who is sensitive to selection biases in inductive reasoning? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 49*, 284–300. [[doi](https://doi.org/10.1037/xlm0001171)]
 
-## 2022
 
+### 2022
+
+  - Ledgerwood, A., Hudson, S. T. J., Lewis, N. A., Maddox, K. B., Pickett, C. L., Remedios, J. D., Cheryan, S., Diekman, A. B., Dutra, N. B., Goh, J. X., Goodwin, S. A., Munakata, Y., Navarro, D. J., Onyeador, I. N., Srivastava, S., & Wilkins, C. L. (2022). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Perspectives on Psychological Science, 17*, 937–959. [[psyarxiv](https://psyarxiv.com/gdzue), [doi](https://doi.org/10.1177/17456916211036654)]
+  - Ledgerwood, A., Pickett, C., Navarro, D. J., Remedios, J. D. & Lewis, N. A. Jr (2022) The unbearable limitations of solo science: Team science as a path for more rigorous and relevant research. *Brain and Behavioral Science, 45*, e81. [[psyarxiv](https://psyarxiv.com/5yfmq/), [doi](https://doi.org/10.1017/s0140525x21000844)]
   - Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2022). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 48(4), 547-568 [[psyarxiv](https://psyarxiv.com/5y643), [doi](https://doi.org/10.1037/xlm0000883)]
 
 
-## 2021
+### 2021
 
   - Navarro, D. J. (2021). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science, 16*(4), 707-716. [[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory), [doi](https://doi.org/10.1177/1745691620974769)]
   - Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2021). The case for formal methodology in scientific reform. *Royal Society Open Science,* 8, 2008052. [[pdf](./2021_formalopenscience.pdf), [bioarxiv](https://doi.org/10.1101/2020.04.26.048306), [doi](https://doi.org/10.1098/rsos.200805)]
@@ -61,7 +51,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
   - Hotaling, J. M., Navarro, D. J. & Newell, B. R. (2021). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* 47(6), 879-905. [[psyarxiv](https://psyarxiv.com/ghmdx/), [doi](https://doi.org/10.1037/xlm0000981)]
 
 
-## 2020
+### 2020
 
   - Szollosi, A., Kellen, D., Navarro, D. J., Shiffrin, R., van Rooij, I., 
   Van Zandt, T. and Donkin, C. (2020). Is preregistration worthwhile? 
@@ -73,7 +63,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
   - Xie, B. Navarro, D. J. & Hayes, B. K. (2020). Adding types, but not tokens, affects property induction. *Cognitive Science, 44*(9), e12895.  [[pdf](./preprint_birds.pdf), [psyarxiv](https://psyarxiv.com/6nky9/), [doi](http://dx.doi.org/10.1111/cogs.12895)]
 
 
-## 2019
+### 2019
 
   - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms,
     G. (2019). The Small World of Words: English word association norms
@@ -125,7 +115,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [doi](https://dx.doi.org/10.1111/cogs.12724),
     [psyarxiv](https://dx.doi.org/10.17605/OSF.IO/BJH68)]
 
-## 2018
+### 2018
 
   - Langsford, S., Perfors, A., Hendrickson, A., Kennedy, L. and
     Navarro, D. J. (2018). A systematic comparison and reliability
@@ -157,7 +147,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [psyarxiv](https://doi.org/10.17605/OSF.IO/3G4P5),
     [osf](https://osf.io/nzvqp/)]
 
-## 2017
+### 2017
 
   - Kennedy, L., Navarro, D. J., Perfors, A. and Briggs, N. (2017). Not
     every credible interval is credible: Evaluating robustness in the
@@ -184,7 +174,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [doi](https://doi.org/10.1037/rev0000052),
     [psyarxiv](https://doi.org/10.31234/osf.io/25gcm)]
 
-## 2016
+### 2016
 
   - De Deyne, S., Kenett, Y. N., Anaki, D., Faust, M. and Navarro, D. J.
     (2016). Large-scale network representations of semantics in the
@@ -229,7 +219,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [doi](https://dx.doi.org/10.3758/s13423-015-0857-9),
     [psyarxiv](https://dx.doi.org/10.31234/osf.io/6ygzj)]
 
-## 2011-2015
+### 2011-2015
 
   - Voorspoels, W., Navarro, D. J., Perfors, A., Ransom K. and Storms,
     G. (2015). How do people learn from negative evidence? Non-monotonic
@@ -274,7 +264,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [doi](https://dx.doi.org/10.1037/a0021110),
     [psyarxiv](https://dx.doi.org/10.31234/osf.io/rj9kt)]
 
-## 2006-2010
+### 2006-2010
 
   - Navarro, D. J. and Perfors, A. (2010). Similarity, feature
     discovery, and the size principle. *Acta Psychologica, 133*, 256-268
@@ -337,7 +327,7 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [doi](https://dx.doi.org/10.1037/0033-295X.113.1.57),
     [psyarxiv](https://dx.doi.org/10.31234/osf.io/43auj)]
 
-## 2001-2005
+### 2001-2005
 
   - Lee, M. D. and Navarro, D. J. (2005). Minimum description length and
     psychological clustering models. In P. Grunwald, I. J. Myung and M.
@@ -381,13 +371,10 @@ As much as possible each citation links to the author-accepted pdf file and the 
     [psyarxiv](https://dx.doi.org/10.31234/osf.io/uvtbf)]
 
 
-## The living dead
+## Miscellanea
 
   - Navarro, D. J. (2019). Paths in strange spaces: A comment on preregistration. [[psyarxiv](https://psyarxiv.com/wxn58), [github](https://github.com/djnavarro/strange-paths)] 
   - Navarro, D. J. (2018). A personal essay on Bayes factors. [[psyarxiv](https://psyarxiv.com/nujy6/), [github](https://github.com/djnavarro/bayes-factor-essay)]
-  - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D. J., & Sarnecka, B. W. (submitted, 2019). The exploration advantage: Children’s instinct to explore allows them to find information that adults miss. [[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)]
-  - Ransom, K., Voorspoels, W., Navarro, D. J., & Perfors, A. (submitted, 2019). Where the truth lies: how sampling implications drive deception without lying. [[psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)]
-
 
 
 
