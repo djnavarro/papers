@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PApers by Danielle Navarro"
+  site-url: https://papers.djnavarro.net
+  repo-url: https://github.com/djnavarro/papers
+  open-graph: true
+  twitter-card:
+    creator: "@djnavarro"
+    card-style: summary_large_image
+  page-footer:
+    center:
+      - href: https://papers.djnavarro.net
+        text: papers.djnavarro.net
+  navbar:
+    title: false
+    background: "#eee"
+    right:
+      - text: Danielle Navarro
+        menu:
+        - href: https://djnavarro.net
+          text: Homepage
+        - href: https://blog.djnavarro.net
+          text: Data science blog
+        - href: https://art.djnavarro.net
+          text: Generative art
+        - href: https://papers.djnavarro.net
+          text: Academic papers
+
+# execute:
+#  freeze: true
+
+format:
+  html:
+    template-partials: title-block.html
+    page-layout: full
+    theme: ember.scss
+    css: styles.css
+    toc: true
+    include-after-body: plausible.html
+
