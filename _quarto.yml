@@ -29,6 +29,8 @@ website:
           text: Generative art
         - href: https://papers.djnavarro.net
           text: Academic papers
+        - href: https://djnavarro.net/sites
+          text: More...
 
 # execute:
 #  freeze: true
