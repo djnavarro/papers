@@ -8,7 +8,6 @@ Back when I was a part of that world, my academic research investigated how peop
 
 ## Selected papers
 
-
 - Navarro, D. J. (2021). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science, 16*(4), 707-716. [[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory), [doi](https://doi.org/10.1177/1745691620974769)]
 - Navarro, D. J. (2019). Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection. *Computational Brain and Behavior, 2*, 28-34 [[pdf](./2019_devildeepbluesea.pdf), [doi](https://doi.org/10.1007/s42113-018-0019-z), [osf](https://osf.io/5swnm/), [psyarxiv](https://doi.org/10.31234/osf.io/39q8y)]
 - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms, G. (2019). The Small World of Words: English word association norms for over 12,000 cue words. *Behavior Research Methods, 51*, 987-1006 [[pdf](./2019_swow.pdf), [doi](https://doi.org/10.3758/s13428-018-1115-7), [psyarxiv](https://doi.org/10.31234/osf.io/mb93p)]
@@ -25,12 +24,9 @@ Back when I was a part of that world, my academic research investigated how peop
 
 ## Papers
 
-### Manuscripts in press
-
-  - Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (in press). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Decision.*  [[psyarxiv](https://psyarxiv.com/nefpz/), [doi](https://doi.org/10.1037/dec0000179)]
-
 ### 2023
 
+  - Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (2023). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Decision, 10*, 247-267.  [[psyarxiv](https://psyarxiv.com/nefpz/), [doi](https://doi.org/10.1037/dec0000179)]
   - van Doorn, J., Haaf, J. M., Stefan, A. M., Wagenmakers, E.-J., Cox, G. E., Davis-Stober, C. P., Heathcote, A., Heck, D. W., Kalish, M., Kellen, D., Matzke, D., Morey, R. D., Nicenboim, B., van Ravenzwaaij, D., Rouder, J. N., Schad, D. J., Shiffrin, R. M., Singmann, H., Vasishth, S., Veríssimo, J., Bockting, F., Chandramouli, S., Dunn, J. C., Gronau, Q. F., Linde, M., McMullin, S. D., Navarro, D. J., Schnuerch, M., Yadav, H., & Aust, F. (2023). Bayes factors for mixed models: A discussion. *Computational Brain & Behavior, 6*, 140-158. [[doi](https://doi.org/10.1007/s42113-022-00160-3)] 
   - Singmann, H., Kellen, D., Cox, G. E., Chandramouli, S. H., Davis-Stober, C. P., Dunn, J. C., Gronau, Q. F., Kalish, M. L., McMullin, S. D., Navarro, D. J., & Shiffrin, R. M. (2023). Statistics in the service of science: Don't let the tail wag the dog. *Computational Brain and Behaviour, 6*, 64-83. [[psyarxiv](https://doi.org/10.31234/osf.io/kxhfu), [doi](https://doi.org/10.1007/s42113-022-00129-2)]
   - Riggs, D. W., Rosenberg, S., & Navarro, D. J. (2023). Attitudes towards parents of trans children and their rights: An Australian study. *Sexuality Research and Social Policy, 20*, 198-207. [[doi](https://doi.org/10.1007/s13178-022-00737-4)]
