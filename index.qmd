@@ -24,6 +24,10 @@ Back when I was part of that world, my academic research investigated how people
 
 ## Papers
 
+### In press
+
+- Ben Yehuda, M., Murphy, R. A., Le Pelley, M. E., Navarro, D. J., Yeung, N. (in press). Confidence regulates feedback processing during human probabilistic learning. To appear in *Journal of Experimental Psychology: General*
+
 ### 2023
 
   - Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (2023). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Decision, 10*, 247-267.  [[psyarxiv](https://psyarxiv.com/nefpz/), [doi](https://doi.org/10.1037/dec0000179)]

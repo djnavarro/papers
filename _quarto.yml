@@ -37,7 +37,6 @@ website:
 
 format:
   html:
-    template-partials: title-block.html
     page-layout: full
     theme: ember.scss
     css: styles.css
