@@ -4,9 +4,11 @@ title: "Publications by Danielle Navarro"
 
 One of the most venerable traditions of academia is to include a page drily listing the [scholarly](https://scholar.google.com/citations?user=QPH_lRIAAAAJ) books and journal publications for which one is to be held responsible. One presumes that this tiresome practice establishes ones credentials to ones peers, who will dutifully stare at the wall of text and be impressed by the overwhelming boredom it inspires. Though I no longer darken the doorsteps of my betters in the academic world, I have not quite abandoned the practice of self-archiving my work. The listing is fairly complete from 2016 onwards, but for earlier years only a subset of the papers is included. People who know why I left academia can guess at the reason for the omissions.
 
-Back when I was part of that world, my academic research investigated how people learn, reason, and make choices in an uncertain world. It touched on topics in cognition, machine learning, statistics, visual perception, data visualisation, language, cultural evolution, cognitive development, and forensic psychology (I know, it's a weird mix...). To spare the casual reader the dull exercise of reading the whole thing I've featured few favourite projects below, but you're welcome to browse through the more-complete list if you feel sufficiently masochistic.
+Back when I was part of that world, my academic research investigated how people learn, reason, and make choices in an uncertain world. It touched on topics in cognition, machine learning, statistics, visual perception, data visualisation, language, cultural evolution, cognitive development, and forensic psychology (I know, it's a weird mix...). In my post-academic life, I've not been as prolific as I was back in the dark ages, naturally. But even so, the work I do as an industry-based pharmacometrician inevitably makes some connection to academic publishing, and some of that is starting to appear in various places.  
 
 ## Selected papers
+
+A small sampling of a few of my favourite papers from my academic era:
 
 - Navarro, D. J. (2021). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science, 16*(4), 707-716. [[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory), [doi](https://doi.org/10.1177/1745691620974769)]
 - Navarro, D. J. (2019). Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection. *Computational Brain and Behavior, 2*, 28-34 [[pdf](./2019_devildeepbluesea.pdf), [doi](https://doi.org/10.1007/s42113-018-0019-z), [osf](https://osf.io/5swnm/), [psyarxiv](https://doi.org/10.31234/osf.io/39q8y)]
@@ -15,7 +17,8 @@ Back when I was part of that world, my academic research investigated how people
 
 ## Books
 
-  - Wickham, H., Navarro, D. J., & Pedersen, T. L. (in preparation). *ggplot2: Elegant Graphics for Data Analysis* (3rd edition). To be published by Springer. [[site](https://ggplot2-book.org/)]
+  - Yoshida, K., Navarro, D. J., & Mercier, F. (online). *BayesERbook: Exposure-response analysis with Bayesian approaches*. [[site](https://genentech.github.io/BayesERbook/)]
+  - Wickham, H., Navarro, D. J., & Pedersen, T. L. (online). *ggplot2: Elegant Graphics for Data Analysis* (3rd edition). To be published by Springer, ostensibly. [[site](https://ggplot2-book.org/)]
   - Navarro D.J. and Foxcroft, D.R. (2020). *Apprentissage des statistiques avec Jamovi : un tutoriel pour les étudiants en psychologie et autres débutants.* (Version 0.70.2). (J.M. Meunier, Trad.) [[book](https://jmeunierp8.github.io/ManuelJamovi)]
   - Navarro, D. J. and Foxcroft D. R. (2019). *Learning statistics with jamovi: A tutorial for psychology students and other beginners.* [[site](https://doi.org/10.24384/hgc3-7p15)]
   - Navarro, D. J., Foxcroft D. R. and Faulkenberry, T. J. (2019). *Learning statistics with JASP: A tutorial for psychology students and other beginners.* [[site](https://learnstatswithjasp.com/)]
@@ -26,7 +29,11 @@ Back when I was part of that world, my academic research investigated how people
 
 ### In press
 
-- Ben Yehuda, M., Murphy, R. A., Le Pelley, M. E., Navarro, D. J., Yeung, N. (in press). Confidence regulates feedback processing during human probabilistic learning. To appear in *Journal of Experimental Psychology: General*
+- Opoku, N. O., Doe, F., Agbogah, M. E., Laryea, R., Gordor, S. K., Donkor, B. S., Anyomitse, E., Kugali1, D., van Zutphen-van Geffen, M., Navarro, D. J., Rayner, C. R., Patel, K., Kuesel, A. C., Lowe, M., Kinrade, S. (in press). Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: Results of an open-label pharmacokinetic and safety study in an onchocerciasis endemic area in Ghana. To appear in *Parasites and Vectors*. [[preprint](https://www.researchsquare.com/article/rs-6342866/v1)]
+
+### 2025
+
+- Ben Yehuda, M., Murphy, R. A., Le Pelley, M. E., Navarro, D. J., & Yeung, N. (2025). Confidence regulates feedback processing during human probabilistic learning. *Journal of Experimental Psychology: General, 154*, 80–95. [doi](https://doi.org/10.1037/xge0001669)
 
 ### 2023
 
