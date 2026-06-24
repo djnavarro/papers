@@ -27,6 +27,10 @@ A small sampling of a few of my favourite papers from my academic era:
 
 ## Papers
 
+<!-- ### Submitted
+
+- Terranova, N., Krekels, E. H. J., Amato, F., Cristea, S., Juraeva, D., Stroh, C., Strotmann, R., Bruns, R.,Goteti, K., Navarro, D., Johne, A., Karachaliou, N., Diderichsen, P. M., Venkatakrishnan, K. (submitted).Longitudinal exposure-response modeling of tumor size and ctDNA dynamics in MET exon 14 positive non-small cell lung cancer during treatment with tepotinib. Submitted to *Cancer Chemotherapy and Pharmacology* -->
+
 ### In press
 
 - Opoku, N. O., Doe, F., Agbogah, M. E., Laryea, R., Gordor, S. K., Donkor, B. S., Anyomitse, E., Kugali, D., van Zutphen-van Geffen, M., Navarro, D. J., Rayner, C. R., Patel, K., Kuesel, A. C., Lowe, M., Kinrade, S. (in press). Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: Results of an open-label pharmacokinetic and safety study in an onchocerciasis endemic area in Ghana. To appear in *Parasites and Vectors*. [[preprint](https://www.researchsquare.com/article/rs-6342866/v1)]
